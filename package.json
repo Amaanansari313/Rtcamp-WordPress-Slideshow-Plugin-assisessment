@@ -1,0 +1,18 @@
+{
+  "name": "rt_slideshow_plugin",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "lightslider": "^1.1.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amaan Ansari<ansarizamil@gmail.com>",
+  "license": "GPL-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Amaanansari313/Rtcamp-WordPress-Slideshow-Plugin-assisessment.git"
+  }
+}
